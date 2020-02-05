@@ -3,7 +3,7 @@ package edu.kis.vh.nursery;
 // "alt + ←" and "alt + →" helps to move between places you were, e.g. files
 // (like back / forward)
 
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
 	int totalRejected = 0;
 
